@@ -6,7 +6,7 @@ I have created two jupyter notebooks, named tasks.ipynb & project.ipynb which co
 
 ## Project
 
-images\iris_flowers.png
+![iris_flowers](images\iris_flowers.png)
 
 ### Introduction
 
