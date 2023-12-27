@@ -6,8 +6,7 @@ I have created two jupyter notebooks, named tasks.ipynb & project.ipynb which co
 
 ## Project
 
-![iris_flowers](images\iris_flowers.webp)
-![iris_flowers](https://github.com/joannefeeney/fundamentals-data/blob/images/iris_image.webp?raw=true)
+![iris_flowers](https://user-images.githubusercontent.com/123767624/236692889-280b9db3-e557-4c14-bd65-8fb64eb8f002.png)
 
 ### Introduction
 
